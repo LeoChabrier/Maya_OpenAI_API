@@ -1,6 +1,6 @@
 # MAYA OPENAI API V001 by Léo Chabrier
 
-# BEFORE RUNNING MAIN.EXE
+# BEFORE RUNNING MASTER\MAIN.EXE
 
 # OPEN AI KEY
 Make sure to have copied in "Maya_OpenAI_API\master\key\key.json" your API Key.
