@@ -8,7 +8,7 @@ It should look like this : "sk-blablabladsjK5etDblablablaWQhTky9BCqblablabla".
 You can generate it here "https://platform.openai.com/api-keys" with your OpenAI account.
 
 # USER SETUP
-Also copy the command written in "Maya_OpenAI_API\userSetup.mel" in "..\Documents\maya\<version>\scripts\userSetup.mel"
+Also copy the command written in "Maya_OpenAI_API\userSetup.mel" in "..\Documents\maya\<version>\scripts\userSetup.mel" to allow oprt opening and communication with the app.
 
 # NON-COMMERCIAL RESTRICTIONS
 Please find the non-commercial restrictions for OpenAI API there "https://platform.openai.com/docs/guides/rate-limits?context=tier-free"
